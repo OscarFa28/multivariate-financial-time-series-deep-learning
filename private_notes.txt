@@ -126,7 +126,7 @@ training time:  168 min
 
 
 
-4 version agregando lstm
+4 version - agregando lstm
 
 config	model	mae	rmse	epochs	window	hidden_size	lr	batch_size
 1374	combined	GRU	0.036776	0.051140	10	3	64	0.0010	16
